@@ -16,3 +16,10 @@ I like it because its peaceful to call a HOME with **Hillstations** and **Beache
 3. Take a flight from Kansas City to New Delhi, India.
 4. Take a flight from New Delhi to Vizag.
 
+
+###### List of Items to carry
+* Iphone 13 Pro Max
+* Lindor Chocolate set
+* Nike Shoes
+* Air Purifier
+
