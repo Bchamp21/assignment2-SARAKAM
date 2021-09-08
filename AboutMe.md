@@ -16,8 +16,8 @@ I love Pop Songs of Hollywood, Bollywood and Tollywood. I try playing guitar for
 ---
 ###### My Favourite Quotes
 
-> When you sit with a nice girl for two hours you think it's only a minute, but when you sit on a hot stove for a minute you think it's two hours. That's relativity.
+> "When you sit with a nice girl for two hours you think it's only a minute, but when you sit on a hot stove for a minute you think it's two hours. That's relativity."
 >                                                   *-Albert Einstein*
 >
->The Greatness of a person has to be estimated by his ability to tolerate provoking situations.
+>"The Greatness of a person has to be estimated by his ability to tolerate provoking situations."
 >                                                   *-Radhanath Swami*
