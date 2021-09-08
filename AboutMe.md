@@ -13,3 +13,10 @@ I love Pop Songs of Hollywood, Bollywood and Tollywood. I try playing guitar for
 | Chicken Biryani | Coastal Dhaba | 110 |
 | Appollo Fish | Vihar | 165 |
 
+---
+###### My Favourite Quotes
+>*Albert Einstein*
+> When you sit with a nice girl for two hours you think it's only a minute, but when you sit on a hot stove for a minute you think it's two hours. That's relativity.
+>
+>*Radhanath Swami*
+>The Greatness of a person has to be estimated by his ability to tolerate provoking situations.
