@@ -4,3 +4,12 @@ I love Pop Songs of Hollywood, Bollywood and Tollywood. I try playing guitar for
 
 ![MyPic](images/Bhuvan_Pic2.jpg)
 
+---
+###### My Favourite Food/Drinks
+| Foods/Drink | Location | Cost |
+| --- | --- | ---: |
+| Chicken Pulav | Raju gari dhaba | 90 |
+| Veg Fried Rice | Dolphin Restaurant | 50 |
+| Chicken Biryani | Coastal Dhaba | 110 |
+| Appollo Fish | Vihar | 165 |
+
